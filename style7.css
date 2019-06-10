@@ -1,0 +1,202 @@
+<style>
+	*{
+		box-sizing: border-box;
+		
+	}
+
+	a{
+		
+		text-decoration: none;
+		color: white;
+
+	}
+
+	input[type=username] {
+
+	 width: 60%; 
+  padding: 12px;   
+  border: 1px solid #ccc; 
+  border-radius: 10px; 
+  box-sizing: border-box; 
+  background-color: #ff99f8;
+  margin-left: 180px; 
+  margin-bottom: ; 
+  resize: vertical;
+}
+
+input[type=password] {
+
+  width: 60%; 
+  padding: 12px;   
+  border: 1px solid #ccc; 
+  border-radius: 10px; 
+  background-color: #ff99f8;
+  box-sizing: border-box; 
+  margin-left: 180px; 
+  resize: vertical;
+
+}
+
+input::placeholder{
+	color: white;
+}
+
+	.bobo{
+		text-align: center;
+		font-family: lucida Calligraphy;
+		font-size: 50px;
+
+	}
+
+	.woman{
+		color: pink;
+	}
+
+	body{
+	    background: linear-gradient(to top right, #ff99ff 0%, #800000 100%);
+		color: white;
+		margin: 0;
+		font-family: arial;
+		font-size: 15px;
+
+	}
+
+	button{
+	border-radius: 10px;
+    height:40px;
+  	width: 60%;
+  	opacity: 0.30;
+	margin-left: 180px;
+    border: 1px solid white;
+     background: linear-gradient(to top right, #ff99ff 0%, #800000 100%);
+
+}
+
+.monkey{
+	text-align: center;
+
+}
+
+.goat{
+	text-align: center;
+
+}
+
+.cat{
+	text-align: center;
+}
+
+.pig{
+	text-align: center;
+	margin-left: 3px;
+	background: linear-gradient(to top right, #ff99ff 0%, #800000 100%);
+	opacity: 0.50;
+	border: 1px solid white;
+
+
+
+
+}
+
+
+
+
+hr{
+	width: 137px;
+	float: right;
+	margin-left: 10px;
+}
+
+.line{
+	float: left;
+}
+
+.login{
+	color: white;
+}
+
+.lol{
+	font-weight: bolder;
+
+}
+
+.lmao{
+	color: white;
+}
+
+
+
+	
+
+	
+
+	.col-1{
+		width: 8.33%;
+	}
+
+	.col-2{
+		width: 16.66%;
+
+	}
+
+	.col-3{
+		width: 25%;
+
+
+	}
+	
+	.col-4{
+		width: 33.32%;
+
+	}
+
+	.col-5{
+		width: 41.65%;
+
+	
+	}
+
+	
+
+
+	.col-6{
+		width: 50%;
+
+	}
+
+	.col-7{
+		width: 58.97%;
+
+	}
+	.col-8{
+		width: 66.64%;
+
+	}
+	.col-9{
+		width: 75%;
+
+	}
+	.col-10{
+		width: 83.3%;
+
+	}
+	.col-11{
+		width: 92.29%;
+
+	}
+
+	.col-12{
+		width: 100%;
+
+	}
+
+	.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .col-11, .col-12{
+		float: left;
+		padding: 5px;
+		margin-top: 8px;
+		margin: ;
+
+
+		/*border: 2px solid green;*/
+		}
+	</style>
